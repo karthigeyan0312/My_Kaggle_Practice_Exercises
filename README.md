@@ -1,2 +1,8 @@
 # hello-world
 This is the first repository, i am creating to learn Github.
+
+# The following code was typed to practice commit changes.
+Hi Humans!
+
+I like R programming and Python.
+I am learning Java and SQL.
