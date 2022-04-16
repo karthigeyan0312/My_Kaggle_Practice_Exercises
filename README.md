@@ -11,3 +11,4 @@ Through this repository i am saying hello to the machine learning world !!!
 
 Tried Competitions from Kaggle.
 1. House price advanced regression.
+2. Titanic Survivors Prediction
